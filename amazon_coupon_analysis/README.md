@@ -1,4 +1,4 @@
-### Project description
+## Project description
 
 This is the solution for the practical assignment 5.1. This answers the question , “Will a customer accept the coupon?” as par of the assignment
 
