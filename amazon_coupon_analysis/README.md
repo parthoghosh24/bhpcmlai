@@ -15,8 +15,8 @@ The project file structure is as follows:
 Please find the findings below for this notebook:
 
 - People of age group below 25 tend to accept more coupons.
-- Coffee house and bar almost generated same results. Acceptance rates between the 2 is not very far-off.
-- Of course, people visiting more than once tend to accept coupon more than visiting less to a place (bar, coffee house, etc.)
+- People with partners and friends tend to accept more coupons.
+- People visiting more than once tend to accept coupons more (bar, coffee house, etc.)
 
 For more details, please check the notebook.
 
